@@ -1,5 +1,5 @@
-# P2P_FileTransferTool-v1.0
-a file tranfer tool
+# P2P_LiteFileTransferTool-v1.0
+a Lite file tranfer tool
 
 Receiver.py goes to the device that you want to receive the file from
 
