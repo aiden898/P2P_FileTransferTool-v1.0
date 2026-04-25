@@ -3,4 +3,4 @@ a file tranfer tool
 
 Receiver.py goes to the device that you want to receive the file from
 
-Sender.py goes to the host 'the device that haves the file you want to send' from a picked file you input to the prompt
+Sender.py goes to the host 'the device that haves the file you want to send' from a file location you input to the prompt
