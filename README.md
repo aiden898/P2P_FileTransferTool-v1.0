@@ -9,4 +9,4 @@ it can work on windows and linux
 
 window to window, linux to linux, linux to windows or windows to linux
 
-idk if it work on MacOS
+idk if it works on MacOS
