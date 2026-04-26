@@ -14,7 +14,7 @@ AUTO_EXTRACT = True
 
 
 
-#  DISCOVERY RESPONDER
+#  DISCOVERY RESPONDER  
 
 def discovery_responder():
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
