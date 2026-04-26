@@ -7,6 +7,6 @@ Sender.py goes to the host 'the device that haves the file you want to send' fro
 
 it can work on windows and linux 
 
-linux to windows or windows to linux
+window to window, linux to linux, linux to windows or windows to linux
 
 idk if it work on MacOS
