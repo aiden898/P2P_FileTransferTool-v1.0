@@ -1,5 +1,9 @@
-# P2P_LiteFileTransferTool-v1.0
+# P2P_LiteFileTransferTool-v1.3
 a Lite file tranfer tool
+
+----------------------------------------------------------------------
+update v1.3: added folder support and added est time and speed in MB/s
+----------------------------------------------------------------------
 
 Receiver.py goes to the device that you want to receive the file from
 
