@@ -60,7 +60,7 @@ def draw_progress(percent, speed, eta, width=30):
 
 def send_file(ip, port, filepath):
     if not os.path.exists(filepath):
-        print("❌ File/Folder not found")
+        print("File/Folder not found")
         return
 
     temp_zip = None
@@ -124,7 +124,7 @@ def send_file(ip, port, filepath):
     finally:
         if temp_zip and os.path.exists(temp_zip):
             os.remove(temp_zip)
-            print("🧹 Temp zip removed")
+            print("Temp zip removed")
 
 
 
